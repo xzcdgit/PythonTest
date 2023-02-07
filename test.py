@@ -1,3 +1,4 @@
+#库文件
 import time
 
 scale = 100 
