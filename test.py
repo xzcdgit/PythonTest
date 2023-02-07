@@ -1,5 +1,5 @@
 import time
-
+#同步测试
 scale = 100 
 
 print("执行开始".center(scale//2,"-"))  # .center() 控制输出的样式，宽度为 25//2，即 22，汉字居中，两侧填充 -
